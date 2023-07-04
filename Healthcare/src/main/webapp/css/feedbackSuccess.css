@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body 
+{
+  text-align: center !important;
+  padding: 0px 0 !important;
+  background: #EBF0F5 !important;
+}
+h1 
+{
+  color: #88B04B !important;
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif !important;
+  font-weight: 900 !important;
+  font-size: 40px !important;
+  margin-bottom: 10px !important;
+}
+p 
+{
+  color: #404F5E !important;
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif !important;
+  font-size:20px !important;
+  margin: 0 !important;
+}
+i 
+{
+  color: #9ABC66 !important;
+  font-size: 100px !important;
+  line-height: 200px !important;
+  margin-left:-15px !important;
+}
+.card 
+{
+  background: white !important;
+  margin-top: 200px !important;
+  padding: 60px !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 3px #C8D0D8 !important;
+  display: inline-block !important;
+  margin: 50px !important;
+ }
